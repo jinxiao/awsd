@@ -26,3 +26,4 @@ archives:
       - scripts/*
       - README.md
       - CHANGELOG.md
+      - Makefile

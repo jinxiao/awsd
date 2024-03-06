@@ -7,6 +7,7 @@ install:       ## Install Target
 	sudo cp awsd ${BINDIR}/_awsd_prompt
 	cp scripts/_awsd ${BINDIR}/_awsd
 	cp scripts/_awsd_autocomplete ${BINDIR}/_awsd_autocomplete
+	sudo chmod +x ${BINDIR}/_awsd*
 	@echo " -=-=--=-=-=-=-=-=-=-=-=-=-=-=- "
 	@echo "                                "
 	@echo "   To Finish Installation add   "
