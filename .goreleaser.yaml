@@ -26,6 +26,3 @@ archives:
       - scripts/*
       - README.md
       - CHANGELOG.md
-
-checksum:
-  name_template: 'checksums.txt'
